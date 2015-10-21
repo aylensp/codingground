@@ -1,0 +1,8 @@
+%base de hechos
+
+observa(maria,omar).
+observa(laura,omar).
+observa(maria,flavio).
+observa(gabriela,flabio).
+observa(maria,carlos).
+
